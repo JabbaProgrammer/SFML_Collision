@@ -1,0 +1,7 @@
+# ninja log v5
+0	10	1661977215238651544	CMakeFiles/SFML_Collision.dir/src/Collider.cpp.o	eede2881ac8043ad
+1	430	1661977049674710253	CMakeFiles/SFML_Collision.dir/main.cpp.o	a473f2d82b4a8048
+0	24	1661977248038736035	build.ninja	3ef282b200c2996d
+1	371	1661977079722632550	CMakeFiles/SFML_Collision.dir/src/Application.cpp.o	91d567e4f1fdac76
+10	102	1661977215330651742	SFML_Collision	342d3c0f43bb95dc
+0	10	1661977129094573030	CMakeFiles/SFML_Collision.dir/include/Collider.cpp.o	27ae45c21c7303e0
